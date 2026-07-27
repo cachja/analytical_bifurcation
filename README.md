@@ -13,8 +13,7 @@ Files:
      Frozen sphere Stokes base flow + 2 real m=1 poloidal modes.
 
   4) sphere_corrected_3modes.wl
-     First-order corrected sphere base flow (computed automatically in a reduced axisymmetric Stokes space)
-     + 3 real m=1 poloidal perturbation modes.
+     First-order corrected sphere base flow (computed automatically in a reduced axisymmetric Stokes space) + 3 real m=1 poloidal perturbation modes.
 
 General notes:
   - All scripts start from explicit base-flow formulas and trial modes.
