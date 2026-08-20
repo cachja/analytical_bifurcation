@@ -24,5 +24,6 @@ General notes:
 Suggested workflow:
   - Run the frozen-base scripts first.
   - Then run the corrected-base scripts.
+  - Alter "standard" and "enriched" bases choices in corrected-base scripts in the top section of the script
   - Compare the printed matrices and the exported branch data with the numbers quoted in the manuscript.
 
